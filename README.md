@@ -10,6 +10,8 @@ Open "DBI Installer"
 
 Choose "Run FTP server"
 
+Choose "Browse saves"
+
 Done
 
 
